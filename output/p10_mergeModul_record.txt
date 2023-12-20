@@ -1,0 +1,729 @@
+current modul:  EP300 TP53 TP73    current score:  0.766146    current sd :  0.05041893     0.7157271 
+overlap modul:  EP300 TP53 TP73 RB1    overlap score:  0.7461294 
+
+current modul:  TP53 MCM7 CDKN1A    current score:  0.7627782    current sd :  0.09120528     0.671573 
+overlap modul:  TP53 MCM7 CDKN1A PRKDC    overlap score:  0.7296132 
+
+current modul:  MDM2 TP53 IFI16    current score:  0.7606989    current sd :  0.0889576     0.6717413 
+overlap modul:  MDM2 TP53 IFI16 HSF1    overlap score:  0.7305354 
+
+current modul:  TFRC EP300 TP53    current score:  0.7592521    current sd :  0.03596002     0.7232921 
+overlap modul:  TFRC EP300 TP53 RCC1    overlap score:  0.7057701 
+
+current modul:  TFRC EP300 TP53    current score:  0.7592521    current sd :  0.03596002     0.7232921 
+overlap modul:  TFRC EP300 TP53 IGF2BP1    overlap score:  0.7027615 
+
+current modul:  MYC TP53 FLT1    current score:  0.7585787    current sd :  0.1160567     0.642522 
+overlap modul:  MYC TP53 FLT1 MLLT4    overlap score:  0.7169945 
+
+current modul:  MYC TP53 RUNX1    current score:  0.7583473    current sd :  0.1125217     0.6458255 
+overlap modul:  MYC TP53 RUNX1 FMN2    overlap score:  0.7245824 
+
+current modul:  TP53 APP TP73    current score:  0.7581662    current sd :  0.08832212     0.669844 
+overlap modul:  TP53 APP TP73 MVP    overlap score:  0.6884658 
+
+current modul:  MDM2 TP53 NOS2    current score:  0.7564986    current sd :  0.101765     0.6547336 
+overlap modul:  MDM2 TP53 NOS2 FASN    overlap score:  0.7229107 
+
+current modul:  MYC TP53 MAP2K4    current score:  0.7563221    current sd :  0.1145725     0.6417496 
+overlap modul:  MYC TP53 MAP2K4 IGF2R    overlap score:  0.721103 
+
+current modul:  MYC TP53 PDE4DIP    current score:  0.7559012    current sd :  0.1177298     0.6381714 
+overlap modul:  MYC TP53 PDE4DIP PKD1    overlap score:  0.719814 
+
+current modul:  MYC TP53 NCOR1    current score:  0.7554741    current sd :  0.1149404     0.6405337 
+overlap modul:  MYC TP53 NCOR1 OBSL1    overlap score:  0.7176218 
+
+current modul:  BRCA1 TP53 TP73    current score:  0.755311    current sd :  0.08157759     0.6737334 
+overlap modul:  BRCA1 TP53 TP73 CDK1    overlap score:  0.6974855 
+
+current modul:  MYC TP53 SVIL    current score:  0.7552284    current sd :  0.1160726     0.6391558 
+overlap modul:  MYC TP53 SVIL WWC1    overlap score:  0.7173829 
+
+current modul:  NR3C1 TP53 APP    current score:  0.7551256    current sd :  0.06159857     0.693527 
+overlap modul:  NR3C1 TP53 APP GSTP1    overlap score:  0.6917805 
+
+current modul:  NR3C1 TP53 APP    current score:  0.7551256    current sd :  0.06159857     0.693527 
+overlap modul:  NR3C1 TP53 APP VDR    overlap score:  0.6982018 
+
+current modul:  TP53 APP GSTP1    current score:  0.7548715    current sd :  0.0689513     0.6859202 
+overlap modul:  TP53 APP GSTP1 VDR    overlap score:  0.6943725 
+
+current modul:  MYC TP53 PAK1    current score:  0.7547722    current sd :  0.1215816     0.6331906 
+overlap modul:  MYC TP53 PAK1 MYH14    overlap score:  0.7171194 
+
+current modul:  EP300 TP53 RCC1    current score:  0.7546821    current sd :  0.04334534     0.7113368 
+overlap modul:  EP300 TP53 RCC1 IGF2BP1    overlap score:  0.7058129 
+
+current modul:  MYC TP53 HSF1    current score:  0.7546141    current sd :  0.1247967     0.6298174 
+overlap modul:  MYC TP53 HSF1 HRNR    overlap score:  0.7151916 
+
+current modul:  CCND1 TP53 APP    current score:  0.7545672    current sd :  0.1076098     0.6469574 
+overlap modul:  CCND1 TP53 APP VCAM1    overlap score:  0.7164552 
+
+current modul:  MYC TP53 FLNB    current score:  0.7545614    current sd :  0.1167116     0.6378498 
+overlap modul:  MYC TP53 FLNB VCAM1    overlap score:  0.7073032 
+
+current modul:  MYC NOTCH2 TP53    current score:  0.7542742    current sd :  0.1175169     0.6367573 
+overlap modul:  MYC NOTCH2 TP53 DSP    overlap score:  0.7176167 
+
+current modul:  MDM2 TP53 SYNE2    current score:  0.7539309    current sd :  0.09206595     0.661865 
+overlap modul:  MDM2 TP53 SYNE2 MYH10    overlap score:  0.7234261 
+
+current modul:  ACACA MYC TP53    current score:  0.753479    current sd :  0.1211479     0.6323311 
+overlap modul:  ACACA MYC TP53 CLU    overlap score:  0.7120263 
+
+current modul:  MYC TP53 DBN1    current score:  0.7531637    current sd :  0.1230375     0.6301262 
+overlap modul:  MYC TP53 DBN1 NF1    overlap score:  0.7160827 
+
+current modul:  MYC TP53 FBL    current score:  0.7530198    current sd :  0.1227829     0.6302368 
+overlap modul:  MYC TP53 FBL HIVEP1    overlap score:  0.7135831 
+
+current modul:  PRKDC MDM2 TP53    current score:  0.7528688    current sd :  0.09399279     0.658876 
+overlap modul:  PRKDC MDM2 TP53 AHNAK    overlap score:  0.7256265 
+
+current modul:  MYC TP53 MYCBP2    current score:  0.7525325    current sd :  0.1185664     0.6339661 
+overlap modul:  MYC TP53 MYCBP2 PDGFRB    overlap score:  0.7100713 
+
+current modul:  TP53 CDKN1A NOS2    current score:  0.75253    current sd :  0.1048689     0.6476611 
+overlap modul:  TP53 CDKN1A NOS2 IFI16    overlap score:  0.7170096 
+
+current modul:  TP53 APP TNFRSF1B    current score:  0.7524444    current sd :  0.06612945     0.686315 
+overlap modul:  TP53 APP TNFRSF1B MAP3K1    overlap score:  0.752549 
+
+current modul:  SMARCA1 MYC TP53    current score:  0.7522159    current sd :  0.1215203     0.6306957 
+overlap modul:  SMARCA1 MYC TP53 ACTN1    overlap score:  0.7128653 
+
+current modul:  MYC TP53 CALD1    current score:  0.7515292    current sd :  0.124053     0.6274762 
+overlap modul:  MYC TP53 CALD1 HIPK2    overlap score:  0.7080011 
+
+current modul:  MYC TP53 HIF1A    current score:  0.7514411    current sd :  0.1225978     0.6288433 
+overlap modul:  MYC TP53 HIF1A VCL    overlap score:  0.7121539 
+
+current modul:  ACTA1 TP53 APP MAP3K1    current score:  0.7662111    current sd :  0.04124167     0.7249694 
+overlap modul:  ACTA1 TP53 APP MAP3K1 RARA    overlap score:  0.7297211 
+
+current modul:  TP53 APP LGALS3 MAP3K1    current score:  0.7629954    current sd :  0.04567755     0.7173178 
+overlap modul:  TP53 APP LGALS3 MAP3K1 DDX21    overlap score:  0.7385275 
+
+current modul:  CDH1 TP53 CDKN1B CDKN1A    current score:  0.7592103    current sd :  0.05535371     0.7038566 
+overlap modul:  CDH1 TP53 CDKN1B CDKN1A BRCA1    overlap score:  0.7500947 
+
+current modul:  MYC CDH1 TP53 IFI16    current score:  0.7576783    current sd :  0.07442154     0.6832567 
+overlap modul:  MYC CDH1 TP53 IFI16 FLNA    overlap score:  0.7322943 
+
+current modul:  EP300 RB1 TP53 CDKN1A    current score:  0.7570956    current sd :  0.06376534     0.6933303 
+overlap modul:  EP300 RB1 TP53 CDKN1A ESR1    overlap score:  0.7408411 
+
+current modul:  BRCA1 MYC TP53 NOS2    current score:  0.7562521    current sd :  0.09782441     0.6584277 
+overlap modul:  BRCA1 MYC TP53 NOS2 IFI16    overlap score:  0.7217692 
+
+current modul:  CDH1 EP300 TP53 BMI1    current score:  0.7562034    current sd :  0.03534333     0.7208601 
+overlap modul:  CDH1 EP300 TP53 BMI1 CCND1    overlap score:  0.7243085 
+
+current modul:  MYC CDH1 TP53 KRT19    current score:  0.7560027    current sd :  0.07871517     0.6772875 
+overlap modul:  MYC CDH1 TP53 KRT19 MYH10    overlap score:  0.7278151 
+
+current modul:  MYC CDH1 TP53 AHNAK    current score:  0.754977    current sd :  0.07532834     0.6796487 
+overlap modul:  MYC CDH1 TP53 AHNAK CLTC    overlap score:  0.7315982 
+
+current modul:  BRCA1 MYC TP53 KRT19    current score:  0.7545771    current sd :  0.09712491     0.6574521 
+overlap modul:  BRCA1 MYC TP53 KRT19 PIK3CA    overlap score:  0.720376 
+
+current modul:  BRCA1 MYC MDM2 ESR1 TP53    current score:  0.7852253    current sd :  0.06862237     0.7166029 
+overlap modul:  BRCA1 MYC MDM2 ESR1 TP53 CDH1    overlap score:  0.7723888 
+
+current modul:  BRCA1 MYC MDM2 ESR1 TP53 CDH1    current score:  0.7723888    current sd :  0.2794459     0.4929428 
+overlap modul:  BRCA1 MYC MDM2 ESR1 TP53 CDH1    overlap score:  0.7723888 
+
+current modul:  BRCA1 MYC MDM2 ESR1 TP53 CDH1    current score:  0.7723888    current sd :  0.2794459     0.4929428 
+overlap modul:  BRCA1 MYC MDM2 ESR1 TP53 CDH1    overlap score:  0.7723888 
+
+current modul:  BRCA1 MYC MDM2 ESR1 TP53 CDH1    current score:  0.7723888    current sd :  0.2794459     0.4929428 
+overlap modul:  BRCA1 MYC MDM2 ESR1 TP53 CDH1    overlap score:  0.7723888 
+
+current modul:  BRCA1 MYC MDM2 ESR1 TP53 CDH1    current score:  0.7723888    current sd :  0.2794459     0.4929428 
+overlap modul:  BRCA1 MYC MDM2 ESR1 TP53 CDH1 RB1    overlap score:  0.7597065 
+
+current modul:  BRCA1 MYC MDM2 ESR1 TP53 CDH1 RB1    current score:  0.7597065    current sd :  0.2782582     0.4814483 
+overlap modul:  BRCA1 MYC MDM2 ESR1 TP53 CDH1 RB1    overlap score:  0.7597065 
+
+current modul:  BRCA1 MYC MDM2 ESR1 TP53 CDH1 RB1    current score:  0.7597065    current sd :  0.2782582     0.4814483 
+overlap modul:  BRCA1 MYC MDM2 ESR1 TP53 CDH1 RB1    overlap score:  0.7597065 
+
+current modul:  BRCA1 MYC MDM2 ESR1 TP53 CDH1 RB1    current score:  0.7597065    current sd :  0.2782582     0.4814483 
+overlap modul:  BRCA1 MYC MDM2 ESR1 TP53 CDH1 RB1    overlap score:  0.7597065 
+
+current modul:  BRCA1 MYC MDM2 ESR1 TP53 CDH1 RB1    current score:  0.7597065    current sd :  0.2782582     0.4814483 
+overlap modul:  BRCA1 MYC MDM2 ESR1 TP53 CDH1 RB1    overlap score:  0.7597065 
+
+current modul:  BRCA1 MYC MDM2 ESR1 TP53 CDH1 RB1    current score:  0.7597065    current sd :  0.2782582     0.4814483 
+overlap modul:  BRCA1 MYC MDM2 ESR1 TP53 CDH1 RB1    overlap score:  0.7597065 
+
+current modul:  BRCA1 MYC MDM2 ESR1 TP53 CDH1 RB1    current score:  0.7597065    current sd :  0.2782582     0.4814483 
+overlap modul:  BRCA1 MYC MDM2 ESR1 TP53 CDH1 RB1    overlap score:  0.7597065 
+
+current modul:  BRCA1 MYC MDM2 ESR1 TP53 CDH1 RB1    current score:  0.7597065    current sd :  0.2782582     0.4814483 
+overlap modul:  BRCA1 MYC MDM2 ESR1 TP53 CDH1 RB1    overlap score:  0.7597065 
+
+current modul:  BRCA1 MYC MDM2 ESR1 TP53 CDH1 RB1    current score:  0.7597065    current sd :  0.2782582     0.4814483 
+overlap modul:  BRCA1 MYC MDM2 ESR1 TP53 CDH1 RB1    overlap score:  0.7597065 
+
+current modul:  BRCA1 MDM2 ESR1 TP53 SMAD3    current score:  0.7701026    current sd :  0.05061634     0.7194863 
+overlap modul:  BRCA1 MDM2 ESR1 TP53 SMAD3 MYC    overlap score:  0.764141 
+
+current modul:  BRCA1 MDM2 ESR1 TP53 SMAD3 MYC    current score:  0.764141    current sd :  0.3558122     0.4083288 
+overlap modul:  BRCA1 MDM2 ESR1 TP53 SMAD3 MYC CDKN1B    overlap score:  0.7473375 
+
+current modul:  BRCA1 MDM2 ESR1 TP53 SMAD3 MYC CDKN1B    current score:  0.7473375    current sd :  0.3050959     0.4422416 
+overlap modul:  BRCA1 MDM2 ESR1 TP53 SMAD3 MYC CDKN1B    overlap score:  0.7473375 
+
+current modul:  BRCA1 MDM2 ESR1 TP53 SMAD3 MYC CDKN1B    current score:  0.7473375    current sd :  0.3050959     0.4422416 
+overlap modul:  BRCA1 MDM2 ESR1 TP53 SMAD3 MYC CDKN1B    overlap score:  0.7473375 
+
+current modul:  BRCA1 MDM2 ESR1 TP53 SMAD3 MYC CDKN1B    current score:  0.7473375    current sd :  0.3050959     0.4422416 
+overlap modul:  BRCA1 MDM2 ESR1 TP53 SMAD3 MYC CDKN1B    overlap score:  0.7473375 
+
+current modul:  BRCA1 MDM2 ESR1 TP53 SMAD3 MYC CDKN1B    current score:  0.7473375    current sd :  0.3050959     0.4422416 
+overlap modul:  BRCA1 MDM2 ESR1 TP53 SMAD3 MYC CDKN1B    overlap score:  0.7473375 
+
+current modul:  BRCA1 MDM2 ESR1 TP53 SMAD3 MYC CDKN1B    current score:  0.7473375    current sd :  0.3050959     0.4422416 
+overlap modul:  BRCA1 MDM2 ESR1 TP53 SMAD3 MYC CDKN1B    overlap score:  0.7473375 
+
+current modul:  BRCA1 MDM2 ESR1 TP53 SMAD3 MYC CDKN1B    current score:  0.7473375    current sd :  0.3050959     0.4422416 
+overlap modul:  BRCA1 MDM2 ESR1 TP53 SMAD3 MYC CDKN1B    overlap score:  0.7473375 
+
+current modul:  BRCA1 MYC CDH1 TP53 CDKN1A    current score:  0.7693451    current sd :  0.07765381     0.6916913 
+overlap modul:  BRCA1 MYC CDH1 TP53 CDKN1A EP300    overlap score:  0.7549119 
+
+current modul:  BRCA1 MYC CDH1 TP53 CDKN1A EP300    current score:  0.7549119    current sd :  0.274426     0.4804859 
+overlap modul:  BRCA1 MYC CDH1 TP53 CDKN1A EP300 APP    overlap score:  0.7428396 
+
+current modul:  BRCA1 MYC CDH1 TP53 CDKN1A EP300 APP    current score:  0.7428396    current sd :  0.2750524     0.4677872 
+overlap modul:  BRCA1 MYC CDH1 TP53 CDKN1A EP300 APP    overlap score:  0.7428396 
+
+current modul:  BRCA1 MYC CDH1 TP53 CDKN1A EP300 APP    current score:  0.7428396    current sd :  0.2750524     0.4677872 
+overlap modul:  BRCA1 MYC CDH1 TP53 CDKN1A EP300 APP    overlap score:  0.7428396 
+
+current modul:  BRCA1 MYC CDH1 TP53 CDKN1A EP300 APP    current score:  0.7428396    current sd :  0.2750524     0.4677872 
+overlap modul:  BRCA1 MYC CDH1 TP53 CDKN1A EP300 APP    overlap score:  0.7428396 
+
+current modul:  BRCA1 MYC CDH1 TP53 CDKN1A EP300 APP    current score:  0.7428396    current sd :  0.2750524     0.4677872 
+overlap modul:  BRCA1 MYC CDH1 TP53 CDKN1A EP300 APP    overlap score:  0.7428396 
+
+current modul:  BRCA1 MYC CDH1 TP53 CDKN1A EP300 APP    current score:  0.7428396    current sd :  0.2750524     0.4677872 
+overlap modul:  BRCA1 MYC CDH1 TP53 CDKN1A EP300 APP    overlap score:  0.7428396 
+
+current modul:  BRCA1 MYC CDH1 TP53 CDKN1A EP300 APP    current score:  0.7428396    current sd :  0.2750524     0.4677872 
+overlap modul:  BRCA1 MYC CDH1 TP53 CDKN1A EP300 APP    overlap score:  0.7428396 
+
+current modul:  BRCA1 MYC CDH1 TP53 CDKN1A EP300 APP    current score:  0.7428396    current sd :  0.2750524     0.4677872 
+overlap modul:  BRCA1 MYC CDH1 TP53 CDKN1A EP300 APP    overlap score:  0.7428396 
+
+current modul:  BRCA1 MYC CDH1 TP53 CDKN1A EP300 APP    current score:  0.7428396    current sd :  0.2750524     0.4677872 
+overlap modul:  BRCA1 MYC CDH1 TP53 CDKN1A EP300 APP    overlap score:  0.7428396 
+
+current modul:  BRCA1 MYC CDH1 TP53 CDKN1A EP300 APP    current score:  0.7428396    current sd :  0.2750524     0.4677872 
+overlap modul:  BRCA1 MYC CDH1 TP53 CDKN1A EP300 APP    overlap score:  0.7428396 
+
+current modul:  BRCA1 MYC ESR1 TP53 EGFR    current score:  0.7674566    current sd :  0.07048838     0.6969683 
+overlap modul:  BRCA1 MYC ESR1 TP53 EGFR SMAD3    overlap score:  0.7442599 
+
+current modul:  BRCA1 MYC ESR1 TP53 EGFR SMAD3    current score:  0.7442599    current sd :  0.07441122     0.6698487 
+overlap modul:  BRCA1 MYC ESR1 TP53 EGFR SMAD3 MDM2    overlap score:  0.744036 
+
+current modul:  BRCA1 MYC ESR1 TP53 EGFR SMAD3 MDM2    current score:  0.744036    current sd :  0.305366     0.43867 
+overlap modul:  BRCA1 MYC ESR1 TP53 EGFR SMAD3 MDM2    overlap score:  0.744036 
+
+current modul:  BRCA1 MYC ESR1 TP53 EGFR SMAD3 MDM2    current score:  0.744036    current sd :  0.305366     0.43867 
+overlap modul:  BRCA1 MYC ESR1 TP53 EGFR SMAD3 MDM2    overlap score:  0.744036 
+
+current modul:  BRCA1 MYC ESR1 TP53 EGFR SMAD3 MDM2    current score:  0.744036    current sd :  0.305366     0.43867 
+overlap modul:  BRCA1 MYC ESR1 TP53 EGFR SMAD3 MDM2    overlap score:  0.744036 
+
+current modul:  BRCA1 MYC MDM2 EP300 TP53    current score:  0.7662017    current sd :  0.0834031     0.6827986 
+overlap modul:  BRCA1 MYC MDM2 EP300 TP53 SMAD3    overlap score:  0.7486008 
+
+current modul:  BRCA1 MYC MDM2 EP300 TP53 SMAD3    current score:  0.7486008    current sd :  0.07435017     0.6742507 
+overlap modul:  BRCA1 MYC MDM2 EP300 TP53 SMAD3 ESR1    overlap score:  0.7489098 
+
+current modul:  BRCA1 MYC MDM2 EP300 TP53 SMAD3 ESR1    current score:  0.7489098    current sd :  0.2764162     0.4724936 
+overlap modul:  BRCA1 MYC MDM2 EP300 TP53 SMAD3 ESR1    overlap score:  0.7489098 
+
+current modul:  BRCA1 MYC MDM2 EP300 TP53 SMAD3 ESR1    current score:  0.7489098    current sd :  0.2764162     0.4724936 
+overlap modul:  BRCA1 MYC MDM2 EP300 TP53 SMAD3 ESR1    overlap score:  0.7489098 
+
+current modul:  BRCA1 MYC MDM2 EP300 TP53 SMAD3 ESR1    current score:  0.7489098    current sd :  0.2764162     0.4724936 
+overlap modul:  BRCA1 MYC MDM2 EP300 TP53 SMAD3 ESR1    overlap score:  0.7489098 
+
+current modul:  BRCA1 MYC MDM2 EP300 TP53 SMAD3 ESR1    current score:  0.7489098    current sd :  0.2764162     0.4724936 
+overlap modul:  BRCA1 MYC MDM2 EP300 TP53 SMAD3 ESR1    overlap score:  0.7489098 
+
+current modul:  BRCA1 MYC MDM2 EP300 TP53 SMAD3 ESR1    current score:  0.7489098    current sd :  0.2764162     0.4724936 
+overlap modul:  BRCA1 MYC MDM2 EP300 TP53 SMAD3 ESR1    overlap score:  0.7489098 
+
+current modul:  MYC MDM2 CDH1 EP300 TP53    current score:  0.7646518    current sd :  0.07209534     0.6925565 
+overlap modul:  MYC MDM2 CDH1 EP300 TP53 ESR1    overlap score:  0.7590291 
+
+current modul:  MYC MDM2 CDH1 EP300 TP53 ESR1    current score:  0.7590291    current sd :  0.2745403     0.4844887 
+overlap modul:  MYC MDM2 CDH1 EP300 TP53 ESR1 EGFR    overlap score:  0.7373389 
+
+current modul:  MYC MDM2 CDH1 EP300 TP53 ESR1 EGFR    current score:  0.7373389    current sd :  0.2342489     0.50309 
+overlap modul:  MYC MDM2 CDH1 EP300 TP53 ESR1 EGFR    overlap score:  0.7373389 
+
+current modul:  MYC MDM2 CDH1 EP300 TP53 ESR1 EGFR    current score:  0.7373389    current sd :  0.2342489     0.50309 
+overlap modul:  MYC MDM2 CDH1 EP300 TP53 ESR1 EGFR    overlap score:  0.7373389 
+
+current modul:  BRCA1 MYC CDH1 JUN TP53    current score:  0.7640915    current sd :  0.06504407     0.6990474 
+overlap modul:  BRCA1 MYC CDH1 JUN TP53 APP    overlap score:  0.7507962 
+
+current modul:  BRCA1 MYC CDH1 JUN TP53 APP    current score:  0.7507962    current sd :  0.06485746     0.6859388 
+overlap modul:  BRCA1 MYC CDH1 JUN TP53 APP CDKN1B    overlap score:  0.7328341 
+
+current modul:  BRCA1 MYC CDH1 JUN TP53 APP CDKN1B    current score:  0.7328341    current sd :  0.06716499     0.6656691 
+overlap modul:  BRCA1 MYC CDH1 JUN TP53 APP CDKN1B    overlap score:  0.7328341 
+
+current modul:  MDM2 ESR1 RB1 TP53 SMAD3    current score:  0.7638431    current sd :  0.04652493     0.7173181 
+overlap modul:  MDM2 ESR1 RB1 TP53 SMAD3 BRCA1    overlap score:  0.7595261 
+
+current modul:  MDM2 ESR1 RB1 TP53 SMAD3 BRCA1    current score:  0.7595261    current sd :  0.3745793     0.3849468 
+overlap modul:  MDM2 ESR1 RB1 TP53 SMAD3 BRCA1 CDKN1A    overlap score:  0.7419936 
+
+current modul:  MDM2 ESR1 RB1 TP53 SMAD3 BRCA1 CDKN1A    current score:  0.7419936    current sd :  0.3285588     0.4134348 
+overlap modul:  MDM2 ESR1 RB1 TP53 SMAD3 BRCA1 CDKN1A    overlap score:  0.7419936 
+
+current modul:  BRCA1 MYC ESR1 TP53 CDKN1A    current score:  0.7636214    current sd :  0.08349523     0.6801262 
+overlap modul:  BRCA1 MYC ESR1 TP53 CDKN1A CDKN1B    overlap score:  0.7442443 
+
+current modul:  BRCA1 MYC ESR1 TP53 CDKN1A CDKN1B    current score:  0.7442443    current sd :  0.2066793     0.537565 
+overlap modul:  BRCA1 MYC ESR1 TP53 CDKN1A CDKN1B MDM2    overlap score:  0.7398904 
+
+current modul:  BRCA1 MYC ESR1 TP53 CDKN1A CDKN1B MDM2    current score:  0.7398904    current sd :  0.3312111     0.4086793 
+overlap modul:  BRCA1 MYC ESR1 TP53 CDKN1A CDKN1B MDM2    overlap score:  0.7398904 
+
+current modul:  BRCA1 MYC ESR1 TP53 CDKN1A CDKN1B MDM2    current score:  0.7398904    current sd :  0.3312111     0.4086793 
+overlap modul:  BRCA1 MYC ESR1 TP53 CDKN1A CDKN1B MDM2    overlap score:  0.7398904 
+
+current modul:  BRCA1 MYC RB1 TP53 SMAD3    current score:  0.7635317    current sd :  0.05968579     0.7038459 
+overlap modul:  BRCA1 MYC RB1 TP53 SMAD3 CDH1    overlap score:  0.755683 
+
+current modul:  BRCA1 MYC RB1 TP53 SMAD3 CDH1    current score:  0.755683    current sd :  0.3190574     0.4366256 
+overlap modul:  BRCA1 MYC RB1 TP53 SMAD3 CDH1 MDM2    overlap score:  0.7529528 
+
+current modul:  BRCA1 MYC RB1 TP53 SMAD3 CDH1 MDM2    current score:  0.7529528    current sd :  0.3676545     0.3852983 
+overlap modul:  BRCA1 MYC RB1 TP53 SMAD3 CDH1 MDM2    overlap score:  0.7529528 
+
+current modul:  BRCA1 MYC RB1 TP53 SMAD3 CDH1 MDM2    current score:  0.7529528    current sd :  0.3676545     0.3852983 
+overlap modul:  BRCA1 MYC RB1 TP53 SMAD3 CDH1 MDM2    overlap score:  0.7529528 
+
+current modul:  BRCA1 MYC RB1 TP53 SMAD3 CDH1 MDM2    current score:  0.7529528    current sd :  0.3676545     0.3852983 
+overlap modul:  BRCA1 MYC RB1 TP53 SMAD3 CDH1 MDM2    overlap score:  0.7529528 
+
+current modul:  BRCA1 MYC RB1 TP53 SMAD3 CDH1 MDM2    current score:  0.7529528    current sd :  0.3676545     0.3852983 
+overlap modul:  BRCA1 MYC RB1 TP53 SMAD3 CDH1 MDM2    overlap score:  0.7529528 
+
+current modul:  BRCA1 MYC RB1 TP53 SMAD3 CDH1 MDM2    current score:  0.7529528    current sd :  0.3676545     0.3852983 
+overlap modul:  BRCA1 MYC RB1 TP53 SMAD3 CDH1 MDM2    overlap score:  0.7529528 
+
+current modul:  BRCA1 MYC RB1 TP53 SMAD3 CDH1 MDM2    current score:  0.7529528    current sd :  0.3676545     0.3852983 
+overlap modul:  BRCA1 MYC RB1 TP53 SMAD3 CDH1 MDM2    overlap score:  0.7529528 
+
+current modul:  BRCA1 MYC MDM2 TP53 APP    current score:  0.7633772    current sd :  0.08900741     0.6743698 
+overlap modul:  BRCA1 MYC MDM2 TP53 APP MAP3K1    overlap score:  0.7501197 
+
+current modul:  BRCA1 MYC MDM2 TP53 APP MAP3K1    current score:  0.7501197    current sd :  0.07939771     0.670722 
+overlap modul:  BRCA1 MYC MDM2 TP53 APP MAP3K1 ESR1    overlap score:  0.7447963 
+
+current modul:  BRCA1 MYC MDM2 TP53 APP MAP3K1 ESR1    current score:  0.7447963    current sd :  0.2778298     0.4669665 
+overlap modul:  BRCA1 MYC MDM2 TP53 APP MAP3K1 ESR1    overlap score:  0.7447963 
+
+current modul:  BRCA1 MYC MDM2 TP53 APP MAP3K1 ESR1    current score:  0.7447963    current sd :  0.2778298     0.4669665 
+overlap modul:  BRCA1 MYC MDM2 TP53 APP MAP3K1 ESR1    overlap score:  0.7447963 
+
+current modul:  BRCA1 MYC MDM2 TP53 APP MAP3K1 ESR1    current score:  0.7447963    current sd :  0.2778298     0.4669665 
+overlap modul:  BRCA1 MYC MDM2 TP53 APP MAP3K1 ESR1    overlap score:  0.7447963 
+
+current modul:  BRCA1 MYC MDM2 TP53 APP MAP3K1 ESR1    current score:  0.7447963    current sd :  0.2778298     0.4669665 
+overlap modul:  BRCA1 MYC MDM2 TP53 APP MAP3K1 ESR1    overlap score:  0.7447963 
+
+current modul:  BRCA1 MYC MDM2 TP53 APP MAP3K1 ESR1    current score:  0.7447963    current sd :  0.2778298     0.4669665 
+overlap modul:  BRCA1 MYC MDM2 TP53 APP MAP3K1 ESR1    overlap score:  0.7447963 
+
+current modul:  BRCA1 MYC MDM2 TP53 APP MAP3K1 ESR1    current score:  0.7447963    current sd :  0.2778298     0.4669665 
+overlap modul:  BRCA1 MYC MDM2 TP53 APP MAP3K1 ESR1    overlap score:  0.7447963 
+
+current modul:  BRCA1 MYC MDM2 TP53 APP MAP3K1 ESR1    current score:  0.7447963    current sd :  0.2778298     0.4669665 
+overlap modul:  BRCA1 MYC MDM2 TP53 APP MAP3K1 ESR1    overlap score:  0.7447963 
+
+current modul:  BRCA1 MYC MDM2 TP53 APP MAP3K1 ESR1    current score:  0.7447963    current sd :  0.2778298     0.4669665 
+overlap modul:  BRCA1 MYC MDM2 TP53 APP MAP3K1 ESR1    overlap score:  0.7447963 
+
+current modul:  BRCA1 MYC MDM2 TP53 APP MAP3K1 ESR1    current score:  0.7447963    current sd :  0.2778298     0.4669665 
+overlap modul:  BRCA1 MYC MDM2 TP53 APP MAP3K1 ESR1    overlap score:  0.7447963 
+
+current modul:  MYC JUN TP53 APP MAP3K1    current score:  0.7629061    current sd :  0.05996478     0.7029414 
+overlap modul:  MYC JUN TP53 APP MAP3K1 CDH1    overlap score:  0.7535735 
+
+current modul:  MYC JUN TP53 APP MAP3K1 CDH1    current score:  0.7535735    current sd :  0.3529258     0.4006477 
+overlap modul:  MYC JUN TP53 APP MAP3K1 CDH1 EP300    overlap score:  0.7449355 
+
+current modul:  MYC JUN TP53 APP MAP3K1 CDH1 EP300    current score:  0.7449355    current sd :  0.3668602     0.3780752 
+overlap modul:  MYC JUN TP53 APP MAP3K1 CDH1 EP300    overlap score:  0.7449355 
+
+current modul:  MYC JUN TP53 APP MAP3K1 CDH1 EP300    current score:  0.7449355    current sd :  0.3668602     0.3780752 
+overlap modul:  MYC JUN TP53 APP MAP3K1 CDH1 EP300    overlap score:  0.7449355 
+
+current modul:  MYC JUN TP53 APP MAP3K1 CDH1 EP300    current score:  0.7449355    current sd :  0.3668602     0.3780752 
+overlap modul:  MYC JUN TP53 APP MAP3K1 CDH1 EP300    overlap score:  0.7449355 
+
+current modul:  MYC JUN TP53 APP MAP3K1 CDH1 EP300    current score:  0.7449355    current sd :  0.3668602     0.3780752 
+overlap modul:  MYC JUN TP53 APP MAP3K1 CDH1 EP300    overlap score:  0.7449355 
+
+current modul:  MYC CDH1 JUN EP300 TP53    current score:  0.7624604    current sd :  0.05295274     0.7095077 
+overlap modul:  MYC CDH1 JUN EP300 TP53 CDKN1A    overlap score:  0.7502078 
+
+current modul:  MYC CDH1 JUN EP300 TP53 CDKN1A    current score:  0.7502078    current sd :  0.06631299     0.6838948 
+overlap modul:  MYC CDH1 JUN EP300 TP53 CDKN1A APP    overlap score:  0.7423388 
+
+current modul:  MYC CDH1 JUN EP300 TP53 CDKN1A APP    current score:  0.7423388    current sd :  0.1738629     0.568476 
+overlap modul:  MYC CDH1 JUN EP300 TP53 CDKN1A APP    overlap score:  0.7423388 
+
+current modul:  MYC CDH1 JUN EP300 TP53 CDKN1A APP    current score:  0.7423388    current sd :  0.1738629     0.568476 
+overlap modul:  MYC CDH1 JUN EP300 TP53 CDKN1A APP    overlap score:  0.7423388 
+
+current modul:  MYC CDH1 JUN EP300 TP53 CDKN1A APP    current score:  0.7423388    current sd :  0.1738629     0.568476 
+overlap modul:  MYC CDH1 JUN EP300 TP53 CDKN1A APP    overlap score:  0.7423388 
+
+current modul:  MYC CDH1 JUN EP300 TP53 CDKN1A APP    current score:  0.7423388    current sd :  0.1738629     0.568476 
+overlap modul:  MYC CDH1 JUN EP300 TP53 CDKN1A APP    overlap score:  0.7423388 
+
+current modul:  MYC CDH1 EP300 TP53 FN1    current score:  0.761187    current sd :  0.05364817     0.7075389 
+overlap modul:  MYC CDH1 EP300 TP53 FN1 RB1    overlap score:  0.7446753 
+
+current modul:  MYC CDH1 EP300 TP53 FN1 RB1    current score:  0.7446753    current sd :  0.2680269     0.4766485 
+overlap modul:  MYC CDH1 EP300 TP53 FN1 RB1 SMAD3    overlap score:  0.7361176 
+
+current modul:  MYC CDH1 EP300 TP53 FN1 RB1 SMAD3    current score:  0.7361176    current sd :  0.2274216     0.508696 
+overlap modul:  MYC CDH1 EP300 TP53 FN1 RB1 SMAD3    overlap score:  0.7361176 
+
+current modul:  BRCA1 MDM2 CDH1 TP53 CDKN1B    current score:  0.7609724    current sd :  0.04946064     0.7115117 
+overlap modul:  BRCA1 MDM2 CDH1 TP53 CDKN1B CDKN1A    overlap score:  0.7463514 
+
+current modul:  BRCA1 MDM2 CDH1 TP53 CDKN1B CDKN1A    current score:  0.7463514    current sd :  0.07012703     0.6762244 
+overlap modul:  BRCA1 MDM2 CDH1 TP53 CDKN1B CDKN1A EP300    overlap score:  0.73774 
+
+current modul:  BRCA1 MDM2 CDH1 TP53 CDKN1B CDKN1A EP300    current score:  0.73774    current sd :  0.2720467     0.4656933 
+overlap modul:  BRCA1 MDM2 CDH1 TP53 CDKN1B CDKN1A EP300    overlap score:  0.73774 
+
+current modul:  BRCA1 MDM2 CDH1 TP53 CDKN1B CDKN1A EP300    current score:  0.73774    current sd :  0.2720467     0.4656933 
+overlap modul:  BRCA1 MDM2 CDH1 TP53 CDKN1B CDKN1A EP300    overlap score:  0.73774 
+
+current modul:  BRCA1 MDM2 CDH1 TP53 CDKN1B CDKN1A EP300    current score:  0.73774    current sd :  0.2720467     0.4656933 
+overlap modul:  BRCA1 MDM2 CDH1 TP53 CDKN1B CDKN1A EP300    overlap score:  0.73774 
+
+current modul:  MDM2 CDH1 ESR1 TP53 SMAD3    current score:  0.7606349    current sd :  0.04800461     0.7126302 
+overlap modul:  MDM2 CDH1 ESR1 TP53 SMAD3 RB1    overlap score:  0.7530103 
+
+current modul:  MDM2 CDH1 ESR1 TP53 SMAD3 RB1    current score:  0.7530103    current sd :  0.2675725     0.4854377 
+overlap modul:  MDM2 CDH1 ESR1 TP53 SMAD3 RB1 MYC    overlap score:  0.7502264 
+
+current modul:  MDM2 CDH1 ESR1 TP53 SMAD3 RB1 MYC    current score:  0.7502264    current sd :  0.3752688     0.3749575 
+overlap modul:  MDM2 CDH1 ESR1 TP53 SMAD3 RB1 MYC    overlap score:  0.7502264 
+
+current modul:  MDM2 CDH1 ESR1 TP53 SMAD3 RB1 MYC    current score:  0.7502264    current sd :  0.3752688     0.3749575 
+overlap modul:  MDM2 CDH1 ESR1 TP53 SMAD3 RB1 MYC    overlap score:  0.7502264 
+
+current modul:  MDM2 CDH1 ESR1 TP53 SMAD3 RB1 MYC    current score:  0.7502264    current sd :  0.3752688     0.3749575 
+overlap modul:  MDM2 CDH1 ESR1 TP53 SMAD3 RB1 MYC    overlap score:  0.7502264 
+
+current modul:  MDM2 CDH1 ESR1 TP53 SMAD3 RB1 MYC    current score:  0.7502264    current sd :  0.3752688     0.3749575 
+overlap modul:  MDM2 CDH1 ESR1 TP53 SMAD3 RB1 MYC    overlap score:  0.7502264 
+
+current modul:  MDM2 CDH1 ESR1 TP53 SMAD3 RB1 MYC    current score:  0.7502264    current sd :  0.3752688     0.3749575 
+overlap modul:  MDM2 CDH1 ESR1 TP53 SMAD3 RB1 MYC    overlap score:  0.7502264 
+
+current modul:  MDM2 CDH1 ESR1 TP53 SMAD3 RB1 MYC    current score:  0.7502264    current sd :  0.3752688     0.3749575 
+overlap modul:  MDM2 CDH1 ESR1 TP53 SMAD3 RB1 MYC    overlap score:  0.7502264 
+
+current modul:  BRCA1 MDM2 ESR1 TP53 RARA    current score:  0.759896    current sd :  0.06211228     0.6977837 
+overlap modul:  BRCA1 MDM2 ESR1 TP53 RARA IGF1R    overlap score:  0.7367669 
+
+current modul:  BRCA1 MDM2 ESR1 TP53 RARA IGF1R    current score:  0.7367669    current sd :  0.2007536     0.5360133 
+overlap modul:  BRCA1 MDM2 ESR1 TP53 RARA IGF1R MCM7    overlap score:  0.7172883 
+
+current modul:  BRCA1 MYC MDM2 JUN TP53    current score:  0.7595815    current sd :  0.08711946     0.672462 
+overlap modul:  BRCA1 MYC MDM2 JUN TP53 MCM7    overlap score:  0.7353922 
+
+current modul:  BRCA1 MYC MDM2 JUN TP53 MCM7    current score:  0.7353922    current sd :  0.08347638     0.6519159 
+overlap modul:  BRCA1 MYC MDM2 JUN TP53 MCM7 CDH1    overlap score:  0.7372674 
+
+current modul:  BRCA1 MYC MDM2 JUN TP53 MCM7 CDH1    current score:  0.7372674    current sd :  0.2738111     0.4634564 
+overlap modul:  BRCA1 MYC MDM2 JUN TP53 MCM7 CDH1    overlap score:  0.7372674 
+
+current modul:  BRCA1 MYC MDM2 JUN TP53 MCM7 CDH1    current score:  0.7372674    current sd :  0.2738111     0.4634564 
+overlap modul:  BRCA1 MYC MDM2 JUN TP53 MCM7 CDH1    overlap score:  0.7372674 
+
+current modul:  BRCA1 MYC RB1 TP53 CDKN1A    current score:  0.7593978    current sd :  0.08148891     0.6779089 
+overlap modul:  BRCA1 MYC RB1 TP53 CDKN1A MCM7    overlap score:  0.7419797 
+
+current modul:  BRCA1 MYC RB1 TP53 CDKN1A MCM7    current score:  0.7419797    current sd :  0.2055631     0.5364166 
+overlap modul:  BRCA1 MYC RB1 TP53 CDKN1A MCM7 EP300    overlap score:  0.7315431 
+
+current modul:  BRCA1 MYC RB1 TP53 CDKN1A MCM7 EP300    current score:  0.7315431    current sd :  0.3289292     0.4026139 
+overlap modul:  BRCA1 MYC RB1 TP53 CDKN1A MCM7 EP300    overlap score:  0.7315431 
+
+current modul:  BRCA1 MYC CDH1 ERBB2 TP53    current score:  0.759371    current sd :  0.062587     0.6967839 
+overlap modul:  BRCA1 MYC CDH1 ERBB2 TP53 MCM7    overlap score:  0.7353901 
+
+current modul:  BRCA1 MYC CDH1 ERBB2 TP53 MCM7    current score:  0.7353901    current sd :  0.06703648     0.6683537 
+overlap modul:  BRCA1 MYC CDH1 ERBB2 TP53 MCM7 EP300    overlap score:  0.729232 
+
+current modul:  MYC MDM2 CDH1 TP53 APP    current score:  0.7592893    current sd :  0.08056926     0.67872 
+overlap modul:  MYC MDM2 CDH1 TP53 APP JUN    overlap score:  0.7485103 
+
+current modul:  MYC MDM2 CDH1 TP53 APP JUN    current score:  0.7485103    current sd :  0.2723653     0.476145 
+overlap modul:  MYC MDM2 CDH1 TP53 APP JUN CDKN1A    overlap score:  0.7335309 
+
+current modul:  MYC MDM2 CDH1 TP53 APP JUN CDKN1A    current score:  0.7335309    current sd :  0.2342709     0.49926 
+overlap modul:  MYC MDM2 CDH1 TP53 APP JUN CDKN1A    overlap score:  0.7335309 
+
+current modul:  MDM2 CDH1 ESR1 TP53 CDKN1B    current score:  0.7589469    current sd :  0.04925396     0.7096929 
+overlap modul:  MDM2 CDH1 ESR1 TP53 CDKN1B MYC    overlap score:  0.7547383 
+
+current modul:  MDM2 CDH1 ESR1 TP53 CDKN1B MYC    current score:  0.7547383    current sd :  0.3724278     0.3823105 
+overlap modul:  MDM2 CDH1 ESR1 TP53 CDKN1B MYC JUN    overlap score:  0.7394381 
+
+current modul:  MDM2 CDH1 ESR1 TP53 CDKN1B MYC JUN    current score:  0.7394381    current sd :  0.3611508     0.3782873 
+overlap modul:  MDM2 CDH1 ESR1 TP53 CDKN1B MYC JUN    overlap score:  0.7394381 
+
+current modul:  MDM2 CDH1 ESR1 TP53 CDKN1B MYC JUN    current score:  0.7394381    current sd :  0.3611508     0.3782873 
+overlap modul:  MDM2 CDH1 ESR1 TP53 CDKN1B MYC JUN    overlap score:  0.7394381 
+
+current modul:  BRCA1 MDM2 RB1 TP53 CDKN1B    current score:  0.7581354    current sd :  0.05120507     0.7069303 
+overlap modul:  BRCA1 MDM2 RB1 TP53 CDKN1B MCM7    overlap score:  0.7454172 
+
+current modul:  BRCA1 MDM2 RB1 TP53 CDKN1B MCM7    current score:  0.7454172    current sd :  0.1988437     0.5465736 
+overlap modul:  BRCA1 MDM2 RB1 TP53 CDKN1B MCM7 MYC    overlap score:  0.7420256 
+
+current modul:  BRCA1 MDM2 RB1 TP53 CDKN1B MCM7 MYC    current score:  0.7420256    current sd :  0.3500324     0.3919932 
+overlap modul:  BRCA1 MDM2 RB1 TP53 CDKN1B MCM7 MYC    overlap score:  0.7420256 
+
+current modul:  MDM2 RB1 TP53 MCM7 SMAD3    current score:  0.7579959    current sd :  0.04174901     0.7162469 
+overlap modul:  MDM2 RB1 TP53 MCM7 SMAD3 BRCA1    overlap score:  0.7513925 
+
+current modul:  MDM2 RB1 TP53 MCM7 SMAD3 BRCA1    current score:  0.7513925    current sd :  0.3713758     0.3800167 
+overlap modul:  MDM2 RB1 TP53 MCM7 SMAD3 BRCA1 MYC    overlap score:  0.7467564 
+
+current modul:  MDM2 RB1 TP53 MCM7 SMAD3 BRCA1 MYC    current score:  0.7467564    current sd :  0.3906046     0.3561517 
+overlap modul:  MDM2 RB1 TP53 MCM7 SMAD3 BRCA1 MYC    overlap score:  0.7467564 
+
+current modul:  MDM2 RB1 TP53 MCM7 SMAD3 BRCA1 MYC    current score:  0.7467564    current sd :  0.3906046     0.3561517 
+overlap modul:  MDM2 RB1 TP53 MCM7 SMAD3 BRCA1 MYC    overlap score:  0.7467564 
+
+current modul:  MDM2 RB1 TP53 MCM7 SMAD3 BRCA1 MYC    current score:  0.7467564    current sd :  0.3906046     0.3561517 
+overlap modul:  MDM2 RB1 TP53 MCM7 SMAD3 BRCA1 MYC    overlap score:  0.7467564 
+
+current modul:  MDM2 RB1 TP53 MCM7 SMAD3 BRCA1 MYC    current score:  0.7467564    current sd :  0.3906046     0.3561517 
+overlap modul:  MDM2 RB1 TP53 MCM7 SMAD3 BRCA1 MYC    overlap score:  0.7467564 
+
+current modul:  BRCA1 MYC ESR1 JUN TP53    current score:  0.7578901    current sd :  0.07429176     0.6835984 
+overlap modul:  BRCA1 MYC ESR1 JUN TP53 CDH1    overlap score:  0.752844 
+
+current modul:  BRCA1 MYC ESR1 JUN TP53 CDH1    current score:  0.752844    current sd :  0.3190922     0.4337518 
+overlap modul:  BRCA1 MYC ESR1 JUN TP53 CDH1 CDKN1A    overlap score:  0.7423727 
+
+current modul:  BRCA1 MYC ESR1 JUN TP53 CDH1 CDKN1A    current score:  0.7423727    current sd :  0.2749384     0.4674343 
+overlap modul:  BRCA1 MYC ESR1 JUN TP53 CDH1 CDKN1A    overlap score:  0.7423727 
+
+current modul:  BRCA1 MYC ESR1 JUN TP53 CDH1 CDKN1A    current score:  0.7423727    current sd :  0.2749384     0.4674343 
+overlap modul:  BRCA1 MYC ESR1 JUN TP53 CDH1 CDKN1A    overlap score:  0.7423727 
+
+current modul:  BRCA1 MYC MDM2 ERBB2 TP53    current score:  0.7576183    current sd :  0.0829408     0.6746775 
+overlap modul:  BRCA1 MYC MDM2 ERBB2 TP53 IGF1R    overlap score:  0.7369984 
+
+current modul:  BRCA1 MYC MDM2 ERBB2 TP53 IGF1R    current score:  0.7369984    current sd :  0.07499453     0.6620039 
+overlap modul:  BRCA1 MYC MDM2 ERBB2 TP53 IGF1R STAT1    overlap score:  0.7225017 
+
+current modul:  BRCA1 MYC ESR1 TP53 IGF1R    current score:  0.7572928    current sd :  0.06812578     0.6891671 
+overlap modul:  BRCA1 MYC ESR1 TP53 IGF1R MDM2    overlap score:  0.7565308 
+
+current modul:  BRCA1 MYC ESR1 TP53 IGF1R MDM2    current score:  0.7565308    current sd :  0.3167328     0.4397981 
+overlap modul:  BRCA1 MYC ESR1 TP53 IGF1R MDM2 MAP3K1    overlap score:  0.739848 
+
+current modul:  BRCA1 MYC ESR1 TP53 IGF1R MDM2 MAP3K1    current score:  0.739848    current sd :  0.2691582     0.4706898 
+overlap modul:  BRCA1 MYC ESR1 TP53 IGF1R MDM2 MAP3K1    overlap score:  0.739848 
+
+current modul:  BRCA1 MYC ESR1 TP53 IGF1R MDM2 MAP3K1    current score:  0.739848    current sd :  0.2691582     0.4706898 
+overlap modul:  BRCA1 MYC ESR1 TP53 IGF1R MDM2 MAP3K1    overlap score:  0.739848 
+
+current modul:  BRCA1 MDM2 CDH1 TP53 APP    current score:  0.7572448    current sd :  0.06616085     0.691084 
+overlap modul:  BRCA1 MDM2 CDH1 TP53 APP MCM7    overlap score:  0.7358656 
+
+current modul:  BRCA1 MDM2 CDH1 TP53 APP MCM7    current score:  0.7358656    current sd :  0.2010476     0.534818 
+overlap modul:  BRCA1 MDM2 CDH1 TP53 APP MCM7 SMAD3    overlap score:  0.7303921 
+
+current modul:  MYC CDH1 ERBB2 TP53 APP    current score:  0.7569147    current sd :  0.05900337     0.6979114 
+overlap modul:  MYC CDH1 ERBB2 TP53 APP ESR1    overlap score:  0.7405166 
+
+current modul:  MYC CDH1 ERBB2 TP53 APP ESR1    current score:  0.7405166    current sd :  0.3152341     0.4252825 
+overlap modul:  MYC CDH1 ERBB2 TP53 APP ESR1 CDKN1B    overlap score:  0.7256542 
+
+current modul:  BRCA1 MYC CDH1 TP53 MAP3K1    current score:  0.756301    current sd :  0.06522816     0.6910729 
+overlap modul:  BRCA1 MYC CDH1 TP53 MAP3K1 MKI67    overlap score:  0.7333792 
+
+current modul:  BRCA1 MYC CDH1 TP53 MAP3K1 MKI67    current score:  0.7333792    current sd :  0.200149     0.5332302 
+overlap modul:  BRCA1 MYC CDH1 TP53 MAP3K1 MKI67 CCND1    overlap score:  0.7213232 
+
+current modul:  MDM2 ESR1 TP53 IGF1R SMAD3    current score:  0.7561167    current sd :  0.0486783     0.7074384 
+overlap modul:  MDM2 ESR1 TP53 IGF1R SMAD3 EP300    overlap score:  0.7453817 
+
+current modul:  MDM2 ESR1 TP53 IGF1R SMAD3 EP300    current score:  0.7453817    current sd :  0.3123742     0.4330075 
+overlap modul:  MDM2 ESR1 TP53 IGF1R SMAD3 EP300 RB1    overlap score:  0.7388406 
+
+current modul:  MDM2 ESR1 TP53 IGF1R SMAD3 EP300 RB1    current score:  0.7388406    current sd :  0.3443178     0.3945228 
+overlap modul:  MDM2 ESR1 TP53 IGF1R SMAD3 EP300 RB1    overlap score:  0.7388406 
+
+current modul:  MYC TP53 APP MAP3K1 NFKB2    current score:  0.7561164    current sd :  0.06799202     0.6881244 
+overlap modul:  MYC TP53 APP MAP3K1 NFKB2 GJA1    overlap score:  0.732293 
+
+current modul:  MYC TP53 APP MAP3K1 NFKB2 GJA1    current score:  0.732293    current sd :  0.2107438     0.5215492 
+overlap modul:  MYC TP53 APP MAP3K1 NFKB2 GJA1 NOS2    overlap score:  0.7239539 
+
+current modul:  MYC CDH1 RB1 TP53 CDKN1A    current score:  0.7560631    current sd :  0.07760169     0.6784614 
+overlap modul:  MYC CDH1 RB1 TP53 CDKN1A BRCA1    overlap score:  0.7558452 
+
+current modul:  MYC CDH1 RB1 TP53 CDKN1A BRCA1    current score:  0.7558452    current sd :  0.374131     0.3817142 
+overlap modul:  MYC CDH1 RB1 TP53 CDKN1A BRCA1 APP    overlap score:  0.7418009 
+
+current modul:  MYC CDH1 RB1 TP53 CDKN1A BRCA1 APP    current score:  0.7418009    current sd :  0.3487525     0.3930484 
+overlap modul:  MYC CDH1 RB1 TP53 CDKN1A BRCA1 APP    overlap score:  0.7418009 
+
+current modul:  MYC CDH1 RB1 TP53 CDKN1A BRCA1 APP    current score:  0.7418009    current sd :  0.3487525     0.3930484 
+overlap modul:  MYC CDH1 RB1 TP53 CDKN1A BRCA1 APP    overlap score:  0.7418009 
+
+current modul:  MYC CDH1 RB1 TP53 CDKN1A BRCA1 APP    current score:  0.7418009    current sd :  0.3487525     0.3930484 
+overlap modul:  MYC CDH1 RB1 TP53 CDKN1A BRCA1 APP    overlap score:  0.7418009 
+
+current modul:  MDM2 ESR1 RB1 TP53 CDKN1B    current score:  0.7556014    current sd :  0.05168375     0.7039177 
+overlap modul:  MDM2 ESR1 RB1 TP53 CDKN1B EP300    overlap score:  0.7418719 
+
+current modul:  MDM2 ESR1 RB1 TP53 CDKN1B EP300    current score:  0.7418719    current sd :  0.312498     0.4293739 
+overlap modul:  MDM2 ESR1 RB1 TP53 CDKN1B EP300 CDH1    overlap score:  0.7397982 
+
+current modul:  MDM2 ESR1 RB1 TP53 CDKN1B EP300 CDH1    current score:  0.7397982    current sd :  0.373598     0.3662002 
+overlap modul:  MDM2 ESR1 RB1 TP53 CDKN1B EP300 CDH1    overlap score:  0.7397982 
+
+current modul:  MDM2 ESR1 RB1 TP53 CDKN1B EP300 CDH1    current score:  0.7397982    current sd :  0.373598     0.3662002 
+overlap modul:  MDM2 ESR1 RB1 TP53 CDKN1B EP300 CDH1    overlap score:  0.7397982 
+
+current modul:  MDM2 ESR1 RB1 TP53 CDKN1B EP300 CDH1    current score:  0.7397982    current sd :  0.373598     0.3662002 
+overlap modul:  MDM2 ESR1 RB1 TP53 CDKN1B EP300 CDH1    overlap score:  0.7397982 
+
+current modul:  BRCA1 MDM2 ESR1 TP53 STAT1    current score:  0.7552383    current sd :  0.06721413     0.6880241 
+overlap modul:  BRCA1 MDM2 ESR1 TP53 STAT1 MYC    overlap score:  0.7528601 
+
+current modul:  BRCA1 MDM2 ESR1 TP53 STAT1 MYC    current score:  0.7528601    current sd :  0.3515442     0.4013159 
+overlap modul:  BRCA1 MDM2 ESR1 TP53 STAT1 MYC MKI67    overlap score:  0.7295477 
+
+current modul:  BRCA1 MDM2 ESR1 TP53 STAT1 MYC MKI67    current score:  0.7295477    current sd :  0.3254597     0.404088 
+overlap modul:  BRCA1 MDM2 ESR1 TP53 STAT1 MYC MKI67    overlap score:  0.7295477 
+
+current modul:  MYC CDH1 EP300 TP53 CDKN1B    current score:  0.7552016    current sd :  0.05961837     0.6955832 
+overlap modul:  MYC CDH1 EP300 TP53 CDKN1B IGF1R    overlap score:  0.7367808 
+
+current modul:  MYC CDH1 EP300 TP53 CDKN1B IGF1R    current score:  0.7367808    current sd :  0.1988853     0.5378954 
+overlap modul:  MYC CDH1 EP300 TP53 CDKN1B IGF1R RB1    overlap score:  0.7309587 
+
+current modul:  MYC CDH1 TP53 APP NOS2    current score:  0.7546597    current sd :  0.06541003     0.6892497 
+overlap modul:  MYC CDH1 TP53 APP NOS2 RB1    overlap score:  0.7359187 
+
+current modul:  MYC CDH1 TP53 APP NOS2 RB1    current score:  0.7359187    current sd :  0.3147127     0.4212059 
+overlap modul:  MYC CDH1 TP53 APP NOS2 RB1 MCM7    overlap score:  0.7224996 
+
+current modul:  MYC CDH1 JUN TP53 FN1    current score:  0.7546579    current sd :  0.05320376     0.7014541 
+overlap modul:  MYC CDH1 JUN TP53 FN1 ERBB2    overlap score:  0.7430802 
+
+current modul:  MYC CDH1 JUN TP53 FN1 ERBB2    current score:  0.7430802    current sd :  0.2666378     0.4764424 
+overlap modul:  MYC CDH1 JUN TP53 FN1 ERBB2 BRCA1    overlap score:  0.7329155 
+
+current modul:  BRCA1 MYC CDH1 TP53 IGF1R    current score:  0.7539789    current sd :  0.06877055     0.6852083 
+overlap modul:  BRCA1 MYC CDH1 TP53 IGF1R PRKDC    overlap score:  0.7296512 
+
+current modul:  BRCA1 MYC CDH1 TP53 IGF1R PRKDC    current score:  0.7296512    current sd :  0.3464177     0.3832335 
+overlap modul:  BRCA1 MYC CDH1 TP53 IGF1R PRKDC FN1    overlap score:  0.7178168 
+
+current modul:  BRCA1 MYC ESR1 ERBB2 TP53    current score:  0.7539077    current sd :  0.07139378     0.682514 
+overlap modul:  BRCA1 MYC ESR1 ERBB2 TP53 MCM7    overlap score:  0.727589 
+
+current modul:  BRCA1 MYC ESR1 ERBB2 TP53 MCM7    current score:  0.727589    current sd :  0.07491456     0.6526745 
+overlap modul:  BRCA1 MYC ESR1 ERBB2 TP53 MCM7 SMAD3    overlap score:  0.7256758 
+
+current modul:  MYC ERBB2 TP53 APP MAP3K1    current score:  0.7538942    current sd :  0.06435803     0.6895362 
+overlap modul:  MYC ERBB2 TP53 APP MAP3K1 MDM2    overlap score:  0.7401933 
+
+current modul:  MYC ERBB2 TP53 APP MAP3K1 MDM2    current score:  0.7401933    current sd :  0.3453755     0.3948177 
+overlap modul:  MYC ERBB2 TP53 APP MAP3K1 MDM2 ESR1    overlap score:  0.7333886 
+
+current modul:  MYC ERBB2 TP53 APP MAP3K1 MDM2 ESR1    current score:  0.7333886    current sd :  0.3753154     0.3580732 
+overlap modul:  MYC ERBB2 TP53 APP MAP3K1 MDM2 ESR1    overlap score:  0.7333886 
+
+current modul:  CDH1 TP53 APP MAP3K1 CDKN1A    current score:  0.7538488    current sd :  0.05953711     0.6943117 
+overlap modul:  CDH1 TP53 APP MAP3K1 CDKN1A EP300    overlap score:  0.7451559 
+
+current modul:  CDH1 TP53 APP MAP3K1 CDKN1A EP300    current score:  0.7451559    current sd :  0.3474804     0.3976755 
+overlap modul:  CDH1 TP53 APP MAP3K1 CDKN1A EP300 FN1    overlap score:  0.7378568 
+
+current modul:  CDH1 TP53 APP MAP3K1 CDKN1A EP300 FN1    current score:  0.7378568    current sd :  0.3475851     0.3902717 
+overlap modul:  CDH1 TP53 APP MAP3K1 CDKN1A EP300 FN1    overlap score:  0.7378568 
+
+current modul:  MDM2 CDH1 ESR1 TP53 RARA    current score:  0.7535839    current sd :  0.05456369     0.6990203 
+overlap modul:  MDM2 CDH1 ESR1 TP53 RARA CDKN1A    overlap score:  0.7247886 
+
+current modul:  MDM2 CDH1 ESR1 TP53 RARA CDKN1A    current score:  0.7247886    current sd :  0.2047439     0.5200447 
+overlap modul:  MDM2 CDH1 ESR1 TP53 RARA CDKN1A BRCA1    overlap score:  0.7299479 
+
+current modul:  BRCA1 MYC CDH1 TP53BP2 TP53    current score:  0.7533656    current sd :  0.06907627     0.6842893 
+overlap modul:  BRCA1 MYC CDH1 TP53BP2 TP53 STAT1    overlap score:  0.7270487 
+
+current modul:  BRCA1 MYC CDH1 TP53BP2 TP53 STAT1    current score:  0.7270487    current sd :  0.07195364     0.6550951 
+overlap modul:  BRCA1 MYC CDH1 TP53BP2 TP53 STAT1 SYNE2    overlap score:  0.7136928 
+
+current modul:  MYC CDH1 ESR1 TP53 IGF1R    current score:  0.7532243    current sd :  0.05762989     0.6955944 
+overlap modul:  MYC CDH1 ESR1 TP53 IGF1R EGFR    overlap score:  0.7322617 
+
+current modul:  MYC CDH1 ESR1 TP53 IGF1R EGFR    current score:  0.7322617    current sd :  0.2025211     0.5297406 
+overlap modul:  MYC CDH1 ESR1 TP53 IGF1R EGFR EP300    overlap score:  0.7260638 
+
+current modul:  BRCA1 MDM2 EP300 RB1 TP53    current score:  0.7531719    current sd :  0.06373864     0.6894333 
+overlap modul:  BRCA1 MDM2 EP300 RB1 TP53 MYC    overlap score:  0.7529035 
+
+current modul:  BRCA1 MDM2 EP300 RB1 TP53 MYC    current score:  0.7529035    current sd :  0.3502922     0.4026114 
+overlap modul:  BRCA1 MDM2 EP300 RB1 TP53 MYC ESR1    overlap score:  0.750716 
+
+current modul:  MYC TP53 APP MAP3K1 CDKN1A    current score:  0.7527978    current sd :  0.0874185     0.6653793 
+overlap modul:  MYC TP53 APP MAP3K1 CDKN1A ESR1    overlap score:  0.7371497 
+
+current modul:  MYC TP53 APP MAP3K1 CDKN1A ESR1    current score:  0.7371497    current sd :  0.3513667     0.385783 
+overlap modul:  MYC TP53 APP MAP3K1 CDKN1A ESR1 JUN    overlap score:  0.7314226 
+
+current modul:  MDM2 CDH1 ESR1 TP53 IGF1R    current score:  0.7527267    current sd :  0.05172234     0.7010044 
+overlap modul:  MDM2 CDH1 ESR1 TP53 IGF1R APP    overlap score:  0.7348654 
+
+current modul:  BRCA1 MDM2 ESR1 JUN TP53    current score:  0.7525468    current sd :  0.0740131     0.6785337 
+overlap modul:  BRCA1 MDM2 ESR1 JUN TP53 CCND1    overlap score:  0.7145556 
+
+current modul:  MYC EP300 ERBB2 TP53 APP    current score:  0.752384    current sd :  0.06464915     0.6877348 
+overlap modul:  MYC EP300 ERBB2 TP53 APP JUN    overlap score:  0.7434419 
+
+current modul:  MYC EP300 ERBB2 TP53 APP JUN    current score:  0.7434419    current sd :  0.3478786     0.3955634 
+overlap modul:  MYC EP300 ERBB2 TP53 APP JUN BRCA1    overlap score:  0.7314507 
+
+current modul:  BRCA1 MYC ESR1 CCND1 TP53    current score:  0.7523032    current sd :  0.0925981     0.6597051 
+overlap modul:  BRCA1 MYC ESR1 CCND1 TP53 STAT1    overlap score:  0.7143652 
+
+current modul:  BRCA1 MYC ESR1 CCND1 TP53 STAT1    current score:  0.7143652    current sd :  0.1095533     0.6048119 
+overlap modul:  BRCA1 MYC ESR1 CCND1 TP53 STAT1 CDH1    overlap score:  0.7194113 
+
+current modul:  MDM2 CDH1 TP53 APP MAP3K1    current score:  0.7522185    current sd :  0.06272853     0.68949 
+overlap modul:  MDM2 CDH1 TP53 APP MAP3K1 ESR1    overlap score:  0.742228 
+
